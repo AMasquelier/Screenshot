@@ -1,0 +1,3 @@
+SAVE=true
+PATH=
+FILENAME=Screenshot_
